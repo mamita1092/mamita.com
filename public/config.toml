@@ -223,7 +223,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "//twitter.com/GeorgeCushen"
+    link = "https://twitter.com/chemical_tree"
 
   [[params.social]]
     icon = "github"
