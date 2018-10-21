@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on mamita&#39;s page</title>
+    <link>https://mamita1092.github.io/mamita.com/home/</link>
+    <description>Recent content in Homes on mamita&#39;s page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Masato Mita 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://mamita1092.github.io/mamita.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mamita1092.github.io/mamita.com/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://mamita1092.github.io/mamita.com/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mamita1092.github.io/mamita.com/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://mamita1092.github.io/mamita.com/home/about/</guid>
+      <description>Biography I am working as reseacher in RIKEN Center for Advanced Intelligence Project (AIP) and also Ph.D. candidate in Tohoku University (Inui-Suzuki lab). My research interets lie in NLP and its applications, especially in Educational NLP.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://mamita1092.github.io/mamita.com/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mamita1092.github.io/mamita.com/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://mamita1092.github.io/mamita.com/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://mamita1092.github.io/mamita.com/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mamita1092.github.io/mamita.com/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://mamita1092.github.io/mamita.com/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
