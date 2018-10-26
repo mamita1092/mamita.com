@@ -37,7 +37,7 @@ date_format = "January 2006"
   location = "Tokyo, Japan."
   date_start = "2018-02-01"
   date_end = ""
-  description = "Natural Language Understandit Team"
+  description = "Natural Language Understanding Team"
 
 
 
