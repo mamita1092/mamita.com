@@ -34,6 +34,6 @@ weight = 5
 +++
 
 # Biography
-I am working as reseacher in RIKEN Center for Advanced Intelligence Project (AIP) and also Ph.D. candidate in Tohoku University (Inui-Suzuki lab). My research interets lie in NLP and its applications, especially in Educational NLP.
+I am a reseacher in RIKEN Center for Advanced Intelligence Project (AIP) and also Ph.D. candidate in Tohoku University (Inui-Suzuki lab). My research interets lie in NLP and its applications, especially in Educational NLP.
 
 
